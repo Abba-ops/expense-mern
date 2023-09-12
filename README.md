@@ -6,12 +6,12 @@
 
 1. Clone this repository.
 
-2. Install the required dependencies.
+2. Install dependencies.
 
-3. Add an `.env` file to the root directory with the following variables:
-   - `PORT`: Your preferred server port.
-   - `MONGO_URI`: Your MongoDB connection URI.
+3. Create an `.env` file in the root directory with:
+   - `PORT`: Your server port.
+   - `MONGO_URI`: Your MongoDB connection.
 
-4. Start the application in development mode by running `npm run dev`.
+4. Start in development mode: `npm run dev`.
 
-You're all set to track your expenses!
+You're ready to track expenses!
